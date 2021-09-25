@@ -3,7 +3,7 @@
 PacMen Exercise is a project that largely uses JavaScript and some CSS to display buttons that use a factory to produce and animate Blue Ghosts that randomly move across the screen; as well as activate a PacMan game piece that moves back and forth horizontally across the screen.  Open source code was used as a starter. Some of the following enhancements were added:
 
 1. Added blue **Background Color** to the buttons.
-2. Created **"Blue Ghost Factory"**. 
+2. Created **Blue Ghost Factory**. 
 
 # How to Run the Files
 1. Cick the GREEN “Code” button on the Real-Time-Bus-Tracker repository page.
