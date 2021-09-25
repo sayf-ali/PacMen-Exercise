@@ -13,10 +13,10 @@ PacMen Exercise is a project that largely uses JavaScript and some CSS to displa
 
 
 # Future Enhancements
-1. Add random factory to generate other color Ghosts.
-2. Add canvas to set boundaries and board animation.
-3. Add obstacles for PacMan to navigate.
-4. Add collision functionality between PacMan and Ghosts that stops the game.
-5. Add controllers for PacMan game piece to dodge Ghosts.
-6. Add titles and some "donk" sound effects upon collision.
-7. Add timer and game points.
+1. Add **Random Factory** to generate other color Ghosts.
+2. Add **Canvas** to set boundaries and board animation.
+3. Add **Obstacles** for PacMan to navigate.
+4. Add **Collision** functionality between PacMan and Ghosts that stops the game.
+5. Add **Controllers** for PacMan game piece to dodge Ghosts.
+6. Add **Titles** and some "donk" **Sound Effects** upon collision.
+7. Add **Timer** and **Game Points**.
